@@ -2,7 +2,7 @@
   <img src="./assets/hello-world.gif" width="420">
 </p>
 
-<h1 align="center">Hi, I'm Katana 👋</h1>
+<h1 align="center">Hi, I'm Katanai 👋</h1>
 
 <p align="center">
   <b>Automotive Programmer • ECU Remapping • Hobbyist Game Dev</b>
