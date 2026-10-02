@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hello-world.gif" width="420">
+  <img src="./assets/hello.gif" width="420">
 </p>
 
 <h1 align="center">Hi, I'm Katanai 👋</h1>
